@@ -9,9 +9,3 @@ It processes the dataset `covid_19_clean_complete.csv` to calculate active cases
 - 7-day rolling average trends
 - Visualizations for confirmed, deaths, recovered, and active cases
 - Processed CSV output for further analysis
-
-## How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/covid19-analysis.git
-   cd covid19-analysis
